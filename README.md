@@ -1,0 +1,2 @@
+# solutions.freshworks.com
+takeover
